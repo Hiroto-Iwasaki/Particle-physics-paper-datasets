@@ -23,6 +23,17 @@ Data and figures are stored as-is, and the README does not affect updates or cha
 本リポジトリの**コード**は MIT ライセンス、**データ・図・ノートブック**は CC BY 4.0 です。
 Code in this repository is licensed under MIT, while data, figures, and notebooks are licensed under CC BY 4.0.
 
+
+## 推奨クレジット表記 / Suggested Attribution
+データ・図・ノートブックを引用・再配布する場合は、以下の形式でクレジットをお願いします。
+When citing or redistributing data, figures, or notebooks, please use the following format.
+
+日本語例:
+Hiroto Iwasaki, Particle-physics-paper-datasets, CC BY 4.0.
+
+English example:
+Hiroto Iwasaki, Particle-physics-paper-datasets, CC BY 4.0.
+
 ## 連絡 / Contact
 内容に関する問い合わせは、GitHubのIssueまたは連絡手段をご利用ください。
 For questions, please use GitHub Issues or your preferred contact channel.
