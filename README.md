@@ -28,11 +28,23 @@ Code in this repository is licensed under MIT, while data, figures, and notebook
 データ・図・ノートブックを引用・再配布する場合は、以下の形式でクレジットをお願いします。
 When citing or redistributing data, figures, or notebooks, please use the following format.
 
-日本語例:
+日本語（短い形式）:
 Hiroto Iwasaki, Particle-physics-paper-datasets, CC BY 4.0.
 
-English example:
+English (short):
 Hiroto Iwasaki, Particle-physics-paper-datasets, CC BY 4.0.
+
+日本語（論文・報告向け）:
+Hiroto Iwasaki, Particle-physics-paper-datasets, GitHub repository, CC BY 4.0.
+
+English (paper/report):
+Hiroto Iwasaki, Particle-physics-paper-datasets, GitHub repository, CC BY 4.0.
+
+日本語（Web/README向け）:
+Hiroto Iwasaki, Particle-physics-paper-datasets (CC BY 4.0).
+
+English (web/README):
+Hiroto Iwasaki, Particle-physics-paper-datasets (CC BY 4.0).
 
 ## 連絡 / Contact
 内容に関する問い合わせは、GitHubのIssueまたは連絡手段をご利用ください。
