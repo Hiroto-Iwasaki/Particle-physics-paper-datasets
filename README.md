@@ -18,6 +18,11 @@ The file structure may change. If you rely on paths or filenames, please update 
 データや図表はそのままの形で保存されており、READMEは更新や変更の影響を与えません。
 Data and figures are stored as-is, and the README does not affect updates or changes.
 
+
+## ライセンス / License
+本リポジトリの**コード**は MIT ライセンス、**データ・図・ノートブック**は CC BY 4.0 です。
+Code in this repository is licensed under MIT, while data, figures, and notebooks are licensed under CC BY 4.0.
+
 ## 連絡 / Contact
 内容に関する問い合わせは、GitHubのIssueまたは連絡手段をご利用ください。
 For questions, please use GitHub Issues or your preferred contact channel.
